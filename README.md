@@ -1,1 +1,3 @@
 # betabit-workshop
+- Michel
+- Bart
